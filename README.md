@@ -1,4 +1,4 @@
-# 骑马与砍杀II：领主 叁国 文档
+# [骑马与砍杀II 叁国 游戏文档](https://yigu-studio.gitbook.io/three-kindoms/)
 
 ## 团队成员
 
