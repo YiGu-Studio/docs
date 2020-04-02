@@ -1,4 +1,4 @@
-# [骑马与砍杀II 叁国Mod 游戏文档](https://yigu-studio.gitbook.io/three-kindoms/)
+# [骑马与砍杀2 叁国Mod 游戏文档](https://yigu-studio.gitbook.io/three-kindoms/)
 
 ## 团队成员
 
