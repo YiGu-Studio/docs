@@ -1,4 +1,4 @@
-# [骑马与砍杀II 叁国 游戏文档](https://yigu-studio.gitbook.io/three-kindoms/)
+# [骑马与砍杀II 叁国Mod 游戏文档](https://yigu-studio.gitbook.io/three-kindoms/)
 
 ## 团队成员
 
@@ -16,7 +16,7 @@
 
 ## 联系方式
 
-叁国交流群: 
+叁国交流群: 735594739
 
 ## 特色功能简介
 
