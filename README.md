@@ -7,7 +7,7 @@
 | 发起人 | Aewolri |
 | 美术 | Aewolri |
 | 策划 | 海盗船长 |
-| 程序 | Traditore, 青龙绞海, Oliver |
+| 程序 | Traditore, 青龙绞海, HXgame, Oliver |
 | 模型 | 寒雾凄雪, 洛尘, 凉州锦狮 |
 | 原画 | 大鸟快跑, 卢 |
 | 次世代 | YS |
