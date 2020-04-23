@@ -28,8 +28,8 @@
 | 游戏艺术设计 | 游戏 CG 视频 |  雪国杰开(JACKYWARE) |
 |  | 原画 | PROMISE_Azhu（阿猪）, 大的擦叉叉（叉叉) |
 |  | 流程汇总 | 靖王 |
-|  | 流程策划 | wes, 汉羽林 |
-| 程序 | 文本 | 蓝鱼 |
+|  | 流程策划 | wesl, 汉羽林郎 |
+| 程序文本 | 文案 | 蓝鱼, Nik0 |
 | | 本地化 | [Oliver](mailto:munoliver007@gmail.com) |
 
 ## 联系方式
