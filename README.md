@@ -59,3 +59,5 @@
 | 骑砍中文站站长-矮子 | http://bbs.mountblade.com.cn/?2 |
 | 大涂鸦国 | https://www.ginkgostory.com/ |
 | 睿哥画三国 | https://www.weibo.com/u/5426665462 |
+| 世俗骑士| QQ: 843750340 |
+| 另郡主| QQ: 844699234 |
