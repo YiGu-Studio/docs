@@ -34,13 +34,16 @@
 
 ## 联系方式
 
-叁国 QQ交流群: 735594739
+| 名字 | QQ号 | 说明  |
+| :--- | :--- | :--- |
+| 叁国 QQ交流1群 | 735594739 | 讨论与建议交流群 |
+| 叁国 QQ交流2群 | 1057419409 | 潜水专用 |
 
 ## 发布地址
 
 | 名字 | 链接 |
 | :--- | :--- |
-| 骑砍中文站 | |
+| 骑砍中文站 | http://bbs.mountblade.com.cn/thread-2054909-1-2.html |
 | GitHub Release | |
 | Steam | |
 | Moddb | https://www.moddb.com/mods/three-kingdoms|
