@@ -14,9 +14,10 @@
 |  | 文档 | [Oliver](mailto:munoliver007@gmail.com) |
 | 模型 | 场景武器道具 | 寒雾凄雪, 洛尘, 凉州锦狮, 小黑 |
 |  | 人物 | YS |
-| 原画 || 大鸟快跑, 耶鸽, 落枕 |
+| 原画 || 大鸟快跑, 耶鸽, 落枕, 叉叉 |
 | 历史顾问 || Enddy |
 | 音乐 || 廖国钺 |
+| 外宣 || R |
 
 ### 二组
 
@@ -26,8 +27,7 @@
 |  | 监制 | Aewolri |
 |  | 历史顾问 | 睿哥画三国 |
 | 游戏艺术设计 | 游戏 CG 视频 |  雪国杰开(JACKYWARE) |
-|  | 原画 | PROMISE_Azhu（阿猪）, 大的擦叉叉（叉叉) |
-|  | 流程汇总 | 靖王 |
+|  | 原画 | PROMISE_Azhu (阿猪) |
 |  | 流程策划 | wesl, 汉羽林郎 |
 | 程序文本 | 文案 | 蓝鱼, Nik0 |
 | | 本地化 | [Oliver](mailto:munoliver007@gmail.com) |
@@ -62,5 +62,3 @@
 | 骑砍中文站站长-矮子 | http://bbs.mountblade.com.cn/?2 |
 | 大涂鸦国 | https://www.ginkgostory.com/ |
 | 睿哥画三国 | https://www.weibo.com/u/5426665462 |
-| 世俗骑士| QQ: 843750340 |
-| 另郡主| QQ: 844699234 |
