@@ -10,7 +10,7 @@
 | 策划 | 主策 | 海盗船长 |
 |  | 策划 | wya, 你猜 |
 | 程序 | 主程 | Traditore |
-|  | 程序 | 青龙绞海, HXgame, Aloha |
+|  | 程序 | 青龙绞海, HXgame, Aloha, 西门炊肉 |
 |  | 文档 | [Oliver](mailto:munoliver007@gmail.com) |
 | 模型 | 场景武器道具 | 寒雾凄雪, 洛尘, 凉州锦狮, 小黑 |
 |  | 人物 | YS |
@@ -28,7 +28,9 @@
 |  | 历史顾问 | 睿哥画三国 |
 | 游戏艺术设计 | 游戏 CG 视频 |  雪国杰开(JACKYWARE) |
 |  | 原画 | PROMISE_Azhu (阿猪) |
-|  | 流程策划 | wesl, 汉羽林郎 |
+|  | 模型 | 大的核桃 |
+|  | 动作 | 榔头 |
+|  | 策划 | wesl |
 | 程序文本 | 文案 | 蓝鱼, Nik0 |
 | | 本地化 | [Oliver](mailto:munoliver007@gmail.com) |
 
